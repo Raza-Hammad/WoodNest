@@ -1,0 +1,577 @@
+[
+  {
+    "id": "p-marlow-sofa",
+    "slug": "marlow-3-seater-sofa",
+    "name": "Marlow 3-Seater Sofa",
+    "category": "sofas",
+    "subcategory": "Three seater",
+    "price": 185000,
+    "currency": "PKR",
+    "salePrice": 162000,
+    "shortDescription": "A deep, low-slung three seater in olive velvet with a kiln-dried oak frame.",
+    "description": "The Marlow is the sofa you fall asleep on. Feather-and-foam cushions sit on a kiln-dried solid oak frame with mortise-and-tenon joinery, so the seat keeps its shape through years of movie nights. The low back and wide arms make a small room feel generous without swallowing it.",
+    "story": "Designed in our Lahore workshop after a customer asked for a sofa her whole family could fit on.",
+    "dimensions": { "width": 224, "depth": 96, "height": 78, "unit": "cm" },
+    "materials": ["Solid Oak", "Velvet", "Feather & Foam"],
+    "colors": ["Sage", "Cream", "Terracotta", "Charcoal"],
+    "features": [
+      "Kiln-dried solid oak frame",
+      "Feather-wrapped foam cushions",
+      "Removable, washable covers",
+      "Lifetime frame guarantee"
+    ],
+    "images": [
+      "/images/products/marlow-3-seater-sofa/01.jpg",
+      "/images/products/marlow-3-seater-sofa/02.jpg",
+      "/images/products/marlow-3-seater-sofa/03.jpg"
+    ],
+    "art": { "kind": "sofa", "tone": 0 },
+    "model3d": {
+      "glb": "/models/GlamVelvetSofa.glb"
+    },
+    "variants": [
+      { "id": "v-marlow-olive", "label": "Olive Velvet", "type": "fabric", "hex": "#6b7a5a", "priceDelta": 0, "tone": 0 },
+      { "id": "v-marlow-oat", "label": "Oat Bouclé", "type": "fabric", "hex": "#d9cdb8", "priceDelta": 12000, "tone": 1 },
+      { "id": "v-marlow-terracotta", "label": "Terracotta Linen", "type": "fabric", "hex": "#b97547", "priceDelta": 0, "tone": 4 },
+      { "id": "v-marlow-charcoal", "label": "Charcoal Weave", "type": "fabric", "hex": "#3b352f", "priceDelta": 8000, "tone": 6 }
+    ],
+    "tags": ["bestseller", "family", "living room"],
+    "rating": 4.9,
+    "reviewsCount": 214,
+    "inStock": true,
+    "featured": true,
+    "bestseller": true,
+    "createdAt": "2025-03-14"
+  },
+  {
+    "id": "p-cove-sofa",
+    "slug": "cove-modular-sofa",
+    "name": "Cove Modular Sofa",
+    "category": "sofas",
+    "subcategory": "Modular",
+    "price": 245000,
+    "currency": "PKR",
+    "shortDescription": "Rearrange it for movie night, push it back for guests. Four modules, endless layouts.",
+    "description": "Cove comes as four modules that clip together without tools, so the sofa can be a long lounge, an L-shape or two separate seats. Each module hides a solid ash base and a deep pocket-sprung seat. Add or remove modules whenever your room changes.",
+    "dimensions": { "width": 268, "depth": 102, "height": 68, "unit": "cm" },
+    "materials": ["Solid Ash", "Bouclé", "Pocket Springs"],
+    "colors": ["Cream", "Charcoal", "Sage"],
+    "features": [
+      "Tool-free module connectors",
+      "Pocket-sprung seats",
+      "Reversible chaise option",
+      "Padded, anti-slip feet"
+    ],
+    "images": [
+      "/images/products/cove-modular-sofa/01.jpg",
+      "/images/products/cove-modular-sofa/02.jpg",
+      "/images/products/cove-modular-sofa/03.jpg"
+    ],
+    "art": { "kind": "sofa", "tone": 6 },
+    "model3d": {
+      "glb": "/models/SheenWoodLeatherSofa.glb"
+    },
+    "variants": [
+      { "id": "v-cove-cream", "label": "Cream Bouclé", "type": "fabric", "hex": "#e2d8c6", "priceDelta": 0, "tone": 1 },
+      { "id": "v-cove-charcoal", "label": "Charcoal Bouclé", "type": "fabric", "hex": "#3b352f", "priceDelta": 0, "tone": 6 },
+      { "id": "v-cove-sage", "label": "Sage Bouclé", "type": "fabric", "hex": "#85956f", "priceDelta": 15000, "tone": 0 }
+    ],
+    "tags": ["modular", "living room"],
+    "rating": 4.8,
+    "reviewsCount": 96,
+    "inStock": true,
+    "featured": true,
+    "createdAt": "2025-08-02"
+  },
+  {
+    "id": "p-halden-chair",
+    "slug": "halden-lounge-chair",
+    "name": "Halden Lounge Chair",
+    "category": "chairs",
+    "subcategory": "Lounge",
+    "price": 62000,
+    "currency": "PKR",
+    "salePrice": 54500,
+    "shortDescription": "A curved shell chair with a woven back that reads elegant from every angle.",
+    "description": "Halden pairs a steam-bent ash shell with a hand-woven seat and back. The curve follows your spine, and the woven texture catches light beautifully. Light enough to move between rooms, sturdy enough to be a reading chair for life.",
+    "dimensions": { "width": 68, "depth": 72, "height": 74, "unit": "cm" },
+    "materials": ["Steam-bent Ash", "Rattan", "Wool Felt"],
+    "colors": ["Oak", "Walnut"],
+    "features": [
+      "Steam-bent ash shell",
+      "Hand-woven back",
+      "Felt floor glides",
+      "Ships fully assembled"
+    ],
+    "images": [
+      "/images/products/halden-lounge-chair/01.jpg",
+      "/images/products/halden-lounge-chair/02.jpg"
+    ],
+    "art": { "kind": "armchair", "tone": 3 },
+    "model3d": {
+      "glb": "/models/SheenChair.glb"
+    },
+    "variants": [
+      { "id": "v-halden-oak", "label": "Natural Oak", "type": "wood", "hex": "#c9a227", "priceDelta": 0 },
+      { "id": "v-halden-walnut", "label": "Dark Walnut", "type": "wood", "hex": "#5a3a24", "priceDelta": 6000 }
+    ],
+    "tags": ["bestseller", "reading", "handmade"],
+    "rating": 4.9,
+    "reviewsCount": 158,
+    "inStock": true,
+    "featured": true,
+    "bestseller": true,
+    "createdAt": "2025-05-21"
+  },
+  {
+    "id": "p-juniper-armchair",
+    "slug": "juniper-armchair",
+    "name": "Juniper Armchair",
+    "category": "chairs",
+    "subcategory": "Armchair",
+    "price": 54000,
+    "currency": "PKR",
+    "shortDescription": "Rounded arms, a firm seat and a silhouette that softens any corner.",
+    "description": "Juniper is the armchair equivalent of a good hug. Rounded arms and a firm, supportive seat make it work at a desk, beside a window or as the second seat in a living room. Upholstered in a stain-resistant weave that stands up to daily life.",
+    "dimensions": { "width": 76, "depth": 80, "height": 79, "unit": "cm" },
+    "materials": ["Solid Beech", "Stain-resistant Weave"],
+    "colors": ["Rust", "Cream", "Charcoal"],
+    "features": [
+      "Hard-wearing weave",
+      "Solid beech legs",
+      "High-resilience foam",
+      "5-year upholstery warranty"
+    ],
+    "images": [
+      "/images/products/juniper-armchair/01.jpg",
+      "/images/products/juniper-armchair/02.jpg",
+      "/images/products/juniper-armchair/03.jpg"
+    ],
+    "art": { "kind": "armchair", "tone": 5 },
+    "model3d": {
+      "glb": "/models/ChairDamaskPurplegold.glb"
+    },
+    "tags": ["living room", "everyday"],
+    "rating": 4.7,
+    "reviewsCount": 84,
+    "inStock": true,
+    "featured": false,
+    "createdAt": "2025-06-11"
+  },
+  {
+    "id": "p-wren-chair",
+    "slug": "wren-dining-chair",
+    "name": "Wren Dining Chair",
+    "category": "chairs",
+    "subcategory": "Dining",
+    "price": 18500,
+    "currency": "PKR",
+    "shortDescription": "A slim dining chair with a scooped seat you can sit through a long dinner in.",
+    "description": "Dining chairs are usually the last thing anyone thinks about and the first thing anyone feels. Wren's seat is scooped and gently angled back, so you stay comfortable long after the plates are cleared. Stackable, and light enough to lift with one hand.",
+    "dimensions": { "width": 46, "depth": 52, "height": 82, "unit": "cm" },
+    "materials": ["Solid Teak", "Woven Cord"],
+    "colors": ["Walnut", "Oak", "Black"],
+    "features": [
+      "Scooped ergonomic seat",
+      "Stackable up to four",
+      "Woven cord back",
+      "Felt-lined feet"
+    ],
+    "images": [
+      "/images/products/wren-dining-chair/01.jpg",
+      "/images/products/wren-dining-chair/02.jpg",
+      "/images/products/wren-dining-chair/03.jpg"
+    ],
+    "art": { "kind": "chair", "tone": 1 },
+    "tags": ["dining", "stackable"],
+    "rating": 4.6,
+    "reviewsCount": 302,
+    "inStock": true,
+    "featured": false,
+    "createdAt": "2024-11-30"
+  },
+  {
+    "id": "p-bramble-chair",
+    "slug": "bramble-accent-chair",
+    "name": "Bramble Accent Chair",
+    "category": "chairs",
+    "subcategory": "Accent",
+    "price": 47500,
+    "currency": "PKR",
+    "shortDescription": "A statement chair in rust velvet with tapered brass legs.",
+    "description": "Bramble exists to be the one piece everyone asks about. Deep rust velvet, a tightly tailored back and tapered solid-brass legs. It is a chair for a hallway, a bedroom corner or the spot by the fire.",
+    "dimensions": { "width": 70, "depth": 74, "height": 76, "unit": "cm" },
+    "materials": ["Velvet", "Brushed Brass"],
+    "colors": ["Rust", "Sage", "Cream"],
+    "features": [
+      "Tapered brass legs",
+      "Tailored velvet upholstery",
+      "Solid beech inner frame",
+      "Assembles in minutes"
+    ],
+    "images": [
+      "/images/products/bramble-accent-chair/01.jpg",
+      "/images/products/bramble-accent-chair/02.jpg",
+      "/images/products/bramble-accent-chair/03.jpg"
+    ],
+    "art": { "kind": "armchair", "tone": 7 },
+    "tags": ["statement", "bedroom"],
+    "rating": 4.5,
+    "reviewsCount": 47,
+    "inStock": false,
+    "featured": false,
+    "createdAt": "2025-07-19"
+  },
+  {
+    "id": "p-alder-coffee-table",
+    "slug": "alder-coffee-table",
+    "name": "Alder Coffee Table",
+    "category": "tables",
+    "subcategory": "Coffee table",
+    "price": 42000,
+    "currency": "PKR",
+    "shortDescription": "An oval solid-oak top on sculpted legs, with a soft chamfer you can feel.",
+    "description": "A single slab of solid oak, rounded at the corners and chamfered by hand so the edge feels as good as it looks. The legs are set wide for stability and angled so there is room to stretch underneath. Finished in a hard-wax oil that ages into a patina.",
+    "dimensions": { "width": 120, "depth": 70, "height": 38, "unit": "cm" },
+    "materials": ["Solid Oak", "Hard-wax Oil"],
+    "colors": ["Oak", "Walnut"],
+    "features": [
+      "Solid oak top, no veneer",
+      "Hand-chamfered edges",
+      "Hard-wax oil finish",
+      "Felt floor protectors"
+    ],
+    "images": [
+      "/images/products/alder-coffee-table/01.jpg",
+      "/images/products/alder-coffee-table/02.jpg",
+      "/images/products/alder-coffee-table/03.jpg"
+    ],
+    "art": { "kind": "table", "tone": 2 },
+    "variants": [
+      { "id": "v-alder-oak", "label": "Natural Oak", "type": "wood", "hex": "#c9a227", "priceDelta": 0, "tone": 2 },
+      { "id": "v-alder-walnut", "label": "Smoked Walnut", "type": "wood", "hex": "#5a3a24", "priceDelta": 9000, "tone": 5 }
+    ],
+    "tags": ["bestseller", "living room"],
+    "rating": 4.8,
+    "reviewsCount": 121,
+    "inStock": true,
+    "featured": true,
+    "bestseller": true,
+    "createdAt": "2025-02-08"
+  },
+  {
+    "id": "p-rook-table",
+    "slug": "rook-dining-table",
+    "name": "Rook Dining Table",
+    "category": "tables",
+    "subcategory": "Dining table",
+    "price": 128000,
+    "currency": "PKR",
+    "salePrice": 115000,
+    "shortDescription": "Seats eight comfortably. A thick ash top on a trestle base that never wobbles.",
+    "description": "Rook is built around a trestle base instead of corner legs, so nobody at the end of the table sits on a leg. The ash top is 4cm thick and finished flat, making it as good for homework and laptops as it is for dinner. Comes apart into three pieces for easy moving.",
+    "dimensions": { "width": 220, "depth": 95, "height": 75, "unit": "cm" },
+    "materials": ["Solid Ash", "Powder-coated Steel"],
+    "colors": ["Oak", "Black"],
+    "features": [
+      "Seats 6 to 8",
+      "Flat trestle base, no corner legs",
+      "Knocks down for moving",
+      "4cm solid ash top"
+    ],
+    "images": [
+      "/images/products/rook-dining-table/01.jpg",
+      "/images/products/rook-dining-table/02.jpg",
+      "/images/products/rook-dining-table/03.jpg"
+    ],
+    "art": { "kind": "table", "tone": 0 },
+    "tags": ["dining", "family"],
+    "rating": 4.7,
+    "reviewsCount": 73,
+    "inStock": true,
+    "featured": false,
+    "createdAt": "2025-04-27"
+  },
+  {
+    "id": "p-ashcroft-bed",
+    "slug": "ashcroft-bed-frame",
+    "name": "Ashcroft Bed Frame",
+    "category": "beds",
+    "subcategory": "King bed",
+    "price": 165000,
+    "currency": "PKR",
+    "shortDescription": "A solid oak platform bed with a slatted headboard and a silent, floating feel.",
+    "description": "A slatted oak headboard, a recessed plinth base and no visible hardware. Ashcroft looks like it floats, but the frame is engineered with a central support rail so the mattress never sags. Slats are spaced for memory foam as well as sprung mattresses.",
+    "dimensions": { "width": 193, "depth": 214, "height": 105, "unit": "cm" },
+    "materials": ["Solid Oak", "Birch Slats"],
+    "colors": ["Oak", "Walnut"],
+    "features": [
+      "Central support rail",
+      "Silent slat system",
+      "Fits standard king mattresses",
+      "No visible fixings"
+    ],
+    "images": [
+      "/images/products/ashcroft-bed-frame/01.jpg",
+      "/images/products/ashcroft-bed-frame/02.jpg",
+      "/images/products/ashcroft-bed-frame/03.jpg"
+    ],
+    "art": { "kind": "bed", "tone": 2 },
+    "tags": ["bestseller", "bedroom"],
+    "rating": 4.9,
+    "reviewsCount": 189,
+    "inStock": true,
+    "featured": true,
+    "bestseller": true,
+    "createdAt": "2025-01-15"
+  },
+  {
+    "id": "p-maren-bed",
+    "slug": "maren-upholstered-bed",
+    "name": "Maren Upholstered Bed",
+    "category": "beds",
+    "subcategory": "Queen bed",
+    "price": 142000,
+    "currency": "PKR",
+    "shortDescription": "A soft, linen-wrapped bed with a deep padded headboard for late-night reading.",
+    "description": "Maren wraps a solid frame in washed linen and adds a deep, padded headboard that is genuinely comfortable to lean on. The low footboard keeps the room feeling open. Covers unzip and wash, which matters more than anyone admits.",
+    "dimensions": { "width": 168, "depth": 210, "height": 112, "unit": "cm" },
+    "materials": ["Washed Linen", "Solid Pine"],
+    "colors": ["Cream", "Sage", "Charcoal"],
+    "features": [
+      "Deep padded headboard",
+      "Removable, washable cover",
+      "Solid pine frame",
+      "Low-profile footboard"
+    ],
+    "images": [
+      "/images/products/maren-upholstered-bed/01.jpg",
+      "/images/products/maren-upholstered-bed/02.jpg",
+      "/images/products/maren-upholstered-bed/03.jpg"
+    ],
+    "art": { "kind": "bed", "tone": 1 },
+    "variants": [
+      { "id": "v-maren-cream", "label": "Oat Linen", "type": "fabric", "hex": "#d9cdb8", "priceDelta": 0, "tone": 1 },
+      { "id": "v-maren-sage", "label": "Sage Linen", "type": "fabric", "hex": "#85956f", "priceDelta": 0, "tone": 0 },
+      { "id": "v-maren-charcoal", "label": "Charcoal Linen", "type": "fabric", "hex": "#3b352f", "priceDelta": 7000, "tone": 6 }
+    ],
+    "tags": ["bedroom", "soft"],
+    "rating": 4.6,
+    "reviewsCount": 64,
+    "inStock": true,
+    "featured": false,
+    "createdAt": "2025-08-24"
+  },
+  {
+    "id": "p-vale-sideboard",
+    "slug": "vale-sideboard",
+    "name": "Vale Sideboard",
+    "category": "storage",
+    "subcategory": "Sideboard",
+    "price": 98000,
+    "currency": "PKR",
+    "shortDescription": "Fluted oak doors, soft-close hinges and hidden cable routing.",
+    "description": "Vale hides a lot behind fluted oak doors: soft-close hinges, an adjustable internal shelf and a channel at the back for cables, so a media setup stays invisible. The top is sealed against rings and spills.",
+    "dimensions": { "width": 160, "depth": 45, "height": 78, "unit": "cm" },
+    "materials": ["Oak Veneer", "Solid Oak", "Brass"],
+    "colors": ["Oak", "Walnut", "Black"],
+    "features": [
+      "Soft-close hinges",
+      "Hidden cable channel",
+      "Adjustable shelves",
+      "Sealed, spill-resistant top"
+    ],
+    "images": [
+      "/images/products/vale-sideboard/01.jpg",
+      "/images/products/vale-sideboard/02.jpg",
+      "/images/products/vale-sideboard/03.jpg"
+    ],
+    "art": { "kind": "cabinet", "tone": 2 },
+    "tags": ["storage", "living room"],
+    "rating": 4.7,
+    "reviewsCount": 58,
+    "inStock": true,
+    "featured": false,
+    "createdAt": "2025-05-04"
+  },
+  {
+    "id": "p-kestrel-shelf",
+    "slug": "kestrel-bookshelf",
+    "name": "Kestrel Bookshelf",
+    "category": "storage",
+    "subcategory": "Bookshelf",
+    "price": 76000,
+    "currency": "PKR",
+    "shortDescription": "An open ash frame with five shelves and a built-in ladder rail.",
+    "description": "A tall, open frame that lets a collection breathe. Five ash shelves sit in a slim ladder rail that can be bolted to the wall for safety. Wide enough for art books, deep enough for records.",
+    "dimensions": { "width": 90, "depth": 34, "height": 200, "unit": "cm" },
+    "materials": ["Solid Ash", "Powder-coated Steel"],
+    "colors": ["Oak", "Black"],
+    "features": [
+      "Wall-anchor included",
+      "Fits vinyl records",
+      "Five adjustable shelves",
+      "Slim, space-saving frame"
+    ],
+    "images": [
+      "/images/products/kestrel-bookshelf/01.jpg",
+      "/images/products/kestrel-bookshelf/02.jpg",
+      "/images/products/kestrel-bookshelf/03.jpg"
+    ],
+    "art": { "kind": "shelf", "tone": 3 },
+    "tags": ["storage", "study"],
+    "rating": 4.5,
+    "reviewsCount": 39,
+    "inStock": true,
+    "featured": false,
+    "createdAt": "2024-12-12"
+  },
+  {
+    "id": "p-willow-nightstand",
+    "slug": "willow-bedside-table",
+    "name": "Willow Bedside Table",
+    "category": "storage",
+    "subcategory": "Nightstand",
+    "price": 29500,
+    "currency": "PKR",
+    "shortDescription": "A small oak cabinet with a soft-close drawer and an open shelf below.",
+    "description": "Willow is sized for a tight gap next to the bed but still holds a lamp, a book and the things that end up on a nightstand. One soft-close drawer, one open shelf, and a cable notch at the back.",
+    "dimensions": { "width": 48, "depth": 40, "height": 58, "unit": "cm" },
+    "materials": ["Solid Oak", "Oak Veneer"],
+    "colors": ["Oak", "Cream"],
+    "features": [
+      "Soft-close drawer",
+      "Open lower shelf",
+      "Cable notch",
+      "Dovetail joints"
+    ],
+    "images": [
+      "/images/products/willow-bedside-table/01.jpg",
+      "/images/products/willow-bedside-table/02.jpg",
+      "/images/products/willow-bedside-table/03.jpg"
+    ],
+    "art": { "kind": "cabinet", "tone": 1 },
+    "tags": ["bedroom", "storage"],
+    "rating": 4.6,
+    "reviewsCount": 91,
+    "inStock": true,
+    "featured": false,
+    "createdAt": "2025-06-30"
+  },
+  {
+    "id": "p-farrow-lamp",
+    "slug": "farrow-arc-floor-lamp",
+    "name": "Farrow Arc Floor Lamp",
+    "category": "lighting",
+    "subcategory": "Floor lamp",
+    "price": 28500,
+    "currency": "PKR",
+    "salePrice": 24900,
+    "shortDescription": "A brushed brass arc that leans over a sofa and throws warm, even light.",
+    "description": "Farrow arcs 1.8 metres over a sofa or reading chair without needing a ceiling point. The heavy marble base keeps it planted, and the shade is lined to push light down onto the page instead of into your eyes. Dimmable with a foot switch.",
+    "dimensions": { "width": 40, "depth": 180, "height": 210, "unit": "cm" },
+    "materials": ["Brushed Brass", "Marble", "Linen Shade"],
+    "colors": ["Black", "Cream"],
+    "features": [
+      "Foot dimmer switch",
+      "Heavy marble base",
+      "Warm 2700K bulb included",
+      "Adjustable head angle"
+    ],
+    "images": [
+      "/images/products/farrow-arc-floor-lamp/01.jpg",
+      "/images/products/farrow-arc-floor-lamp/02.jpg",
+      "/images/products/farrow-arc-floor-lamp/03.jpg"
+    ],
+    "art": { "kind": "lamp", "tone": 4 },
+    "model3d": {
+      "glb": "/models/AnisotropyBarnLamp.glb"
+    },
+    "variants": [
+      { "id": "v-farrow-brass", "label": "Brushed Brass", "type": "metal", "hex": "#b08d57", "priceDelta": 0 },
+      { "id": "v-farrow-black", "label": "Matte Black", "type": "metal", "hex": "#1b1815", "priceDelta": -2000 }
+    ],
+    "tags": ["bestseller", "lighting", "reading"],
+    "rating": 4.8,
+    "reviewsCount": 143,
+    "inStock": true,
+    "featured": true,
+    "bestseller": true,
+    "createdAt": "2025-03-29"
+  },
+  {
+    "id": "p-solis-pendant",
+    "slug": "solis-pendant-light",
+    "name": "Solis Pendant Light",
+    "category": "lighting",
+    "subcategory": "Pendant",
+    "price": 34000,
+    "currency": "PKR",
+    "shortDescription": "A wide, hand-thrown ceramic pendant that pools warm light over a table.",
+    "description": "Solis is thrown by hand, so no two are identical. The wide, shallow bowl spreads light across a dining table instead of concentrating it in one bright spot. Comes with 1.5 metres of adjustable braided cord.",
+    "dimensions": { "width": 46, "depth": 46, "height": 28, "unit": "cm" },
+    "materials": ["Ceramic", "Braided Cord"],
+    "colors": ["Cream", "Terracotta", "Sage"],
+    "features": [
+      "Hand-thrown ceramic",
+      "1.5m adjustable cord",
+      "Wide, glare-free spread",
+      "E27 fitting"
+    ],
+    "images": [
+      "/images/products/solis-pendant-light/01.jpg",
+      "/images/products/solis-pendant-light/02.jpg",
+      "/images/products/solis-pendant-light/03.jpg"
+    ],
+    "art": { "kind": "pendant", "tone": 1 },
+    "model3d": {
+      "glb": "/models/IridescenceLamp.glb"
+    },
+    "variants": [
+      { "id": "v-solis-cream", "label": "Chalk Cream", "type": "color", "hex": "#e7e1d8", "priceDelta": 0, "tone": 1 },
+      { "id": "v-solis-terracotta", "label": "Terracotta", "type": "color", "hex": "#b97547", "priceDelta": 0, "tone": 4 },
+      { "id": "v-solis-sage", "label": "Sage", "type": "color", "hex": "#85956f", "priceDelta": 3000, "tone": 0 }
+    ],
+    "tags": ["dining", "lighting", "handmade"],
+    "rating": 4.7,
+    "reviewsCount": 52,
+    "inStock": true,
+    "featured": false,
+    "createdAt": "2025-09-01"
+  },
+  {
+    "id": "p-tide-lamp",
+    "slug": "tide-table-lamp",
+    "name": "Tide Table Lamp",
+    "category": "lighting",
+    "subcategory": "Table lamp",
+    "price": 16500,
+    "currency": "PKR",
+    "shortDescription": "A small ribbed ceramic lamp with a linen shade and a built-in touch dimmer.",
+    "description": "The lamp that makes a side table feel finished. Ribbed ceramic, a natural linen shade and a three-step touch dimmer, so you can drop the light without hunting for a switch at midnight.",
+    "dimensions": { "width": 26, "depth": 26, "height": 42, "unit": "cm" },
+    "materials": ["Ceramic", "Linen"],
+    "colors": ["Cream", "Sage", "Terracotta"],
+    "features": [
+      "Three-step touch dimmer",
+      "Ribbed ceramic body",
+      "Natural linen shade",
+      "USB-C outlet in base"
+    ],
+    "images": [
+      "/images/products/tide-table-lamp/01.jpg",
+      "/images/products/tide-table-lamp/02.jpg",
+      "/images/products/tide-table-lamp/03.jpg"
+    ],
+    "art": { "kind": "lamp", "tone": 0 },
+    "model3d": {
+      "glb": "/models/LightsPunctualLamp.glb"
+    },
+    "tags": ["lighting", "bedroom"],
+    "rating": 4.5,
+    "reviewsCount": 118,
+    "inStock": true,
+    "featured": false,
+    "createdAt": "2025-07-06"
+  }
+]

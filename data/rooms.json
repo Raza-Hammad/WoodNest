@@ -1,0 +1,157 @@
+[
+  {
+    "id": "living-room",
+    "name": "The living room",
+    "description": "A deep sofa, a solid oak table you can put your feet on, and one lamp doing all the mood work.",
+    "tone": 6,
+    "pieces": [
+      {
+        "slug": "marlow-3-seater-sofa",
+        "label": "Marlow 3-Seater Sofa",
+        "kind": "sofa",
+        "tone": 6,
+        "x": 138,
+        "scale": 0.78,
+        "hotY": 290
+      },
+      {
+        "slug": "alder-coffee-table",
+        "label": "Alder Coffee Table",
+        "kind": "table",
+        "tone": 5,
+        "x": 272,
+        "scale": 0.4,
+        "dy": 16,
+        "hotY": 318
+      },
+      {
+        "slug": "farrow-arc-floor-lamp",
+        "label": "Farrow Arc Floor Lamp",
+        "kind": "lamp",
+        "tone": 4,
+        "x": 344,
+        "scale": 0.46,
+        "dy": -4,
+        "hotY": 226
+      }
+    ]
+  },
+  {
+    "id": "dining-room",
+    "name": "The dining room",
+    "description": "Trestle legs so nobody straddles a corner, and a pendant that spreads light instead of glaring.",
+    "tone": 2,
+    "pieces": [
+      {
+        "slug": "solis-pendant-light",
+        "label": "Solis Pendant Light",
+        "kind": "pendant",
+        "tone": 4,
+        "x": 200,
+        "scale": 0.6,
+        "dy": -72,
+        "hotY": 122
+      },
+      {
+        "slug": "rook-dining-table",
+        "label": "Rook Dining Table",
+        "kind": "table",
+        "tone": 2,
+        "x": 200,
+        "scale": 0.7,
+        "hotY": 302
+      },
+      {
+        "slug": "wren-dining-chair",
+        "label": "Wren Dining Chair",
+        "kind": "chair",
+        "tone": 1,
+        "x": 104,
+        "scale": 0.48,
+        "dy": 6,
+        "hotY": 320
+      },
+      {
+        "slug": "wren-dining-chair",
+        "label": "Wren Dining Chair",
+        "kind": "chair",
+        "tone": 1,
+        "x": 300,
+        "scale": 0.48,
+        "dy": 6,
+        "hotY": 320
+      }
+    ]
+  },
+  {
+    "id": "bedroom",
+    "name": "The bedroom",
+    "description": "A quiet oak frame, a linen headboard you can lean on, and light you can dim without getting up.",
+    "tone": 1,
+    "pieces": [
+      {
+        "slug": "ashcroft-bed-frame",
+        "label": "Ashcroft Bed Frame",
+        "kind": "bed",
+        "tone": 2,
+        "x": 162,
+        "scale": 0.8,
+        "hotY": 300
+      },
+      {
+        "slug": "willow-bedside-table",
+        "label": "Willow Bedside Table",
+        "kind": "cabinet",
+        "tone": 1,
+        "x": 330,
+        "scale": 0.36,
+        "hotY": 322
+      },
+      {
+        "slug": "tide-table-lamp",
+        "label": "Tide Table Lamp",
+        "kind": "lamp",
+        "tone": 0,
+        "x": 330,
+        "scale": 0.3,
+        "dy": -60,
+        "hotY": 200
+      }
+    ]
+  },
+  {
+    "id": "reading-corner",
+    "name": "The reading corner",
+    "description": "One chair, one arched lamp, one shelf. Everything else can wait.",
+    "tone": 5,
+    "pieces": [
+      {
+        "slug": "halden-lounge-chair",
+        "label": "Halden Lounge Chair",
+        "kind": "armchair",
+        "tone": 3,
+        "x": 138,
+        "scale": 0.85,
+        "hotY": 296
+      },
+      {
+        "slug": "kestrel-bookshelf",
+        "label": "Kestrel Bookshelf",
+        "kind": "shelf",
+        "tone": 3,
+        "x": 312,
+        "scale": 0.8,
+        "hotY": 250
+      },
+      {
+        "slug": "farrow-arc-floor-lamp",
+        "label": "Farrow Arc Floor Lamp",
+        "kind": "lamp",
+        "tone": 4,
+        "x": 60,
+        "scale": 0.48,
+        "hotY": 232
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "sofas",
+    "name": "Sofas & Sectionals",
+    "tagline": "Sink in, stay a while",
+    "description": "Deep seats, honest joinery and fabrics you will want to touch. Built to be lived on.",
+    "art": { "kind": "sofa", "tone": 0 }
+  },
+  {
+    "slug": "chairs",
+    "name": "Chairs & Seating",
+    "tagline": "For every corner",
+    "description": "Lounge chairs, dining chairs and accent pieces that hold their shape for decades.",
+    "art": { "kind": "armchair", "tone": 3 }
+  },
+  {
+    "slug": "tables",
+    "name": "Tables & Desks",
+    "tagline": "Gather around",
+    "description": "Solid tops with grain worth staring at, sized for real rooms and real dinners.",
+    "art": { "kind": "table", "tone": 2 }
+  },
+  {
+    "slug": "beds",
+    "name": "Beds & Bedroom",
+    "tagline": "Rest, redefined",
+    "description": "Quiet, sturdy frames that make the bedroom feel like the calmest room in the house.",
+    "art": { "kind": "bed", "tone": 1 }
+  },
+  {
+    "slug": "storage",
+    "name": "Storage & Shelving",
+    "tagline": "A place for everything",
+    "description": "Sideboards, shelves and nightstands that keep the clutter behind closed doors.",
+    "art": { "kind": "cabinet", "tone": 2 }
+  },
+  {
+    "slug": "lighting",
+    "name": "Lighting",
+    "tagline": "Warmth, on cue",
+    "description": "Floor lamps, pendants and table lights that change a room the moment you switch them on.",
+    "art": { "kind": "lamp", "tone": 4 }
+  }
+]
